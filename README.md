@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao livro de receitas. 
 
-- Strogonoff de frango.
-
-- Pavê
+- Strogonoff de frango;
+- Bolo de cenoura;
+- Pavê.
